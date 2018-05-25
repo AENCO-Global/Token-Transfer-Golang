@@ -1,0 +1,7 @@
+{
+    "accounts": {
+        "accountid": "myico account id",
+        "address": "awallet address",
+        "quantity": "2000"
+    }
+}
